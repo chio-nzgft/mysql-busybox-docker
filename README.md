@@ -2,8 +2,8 @@
 
 git it and biuld it
 ```
-git clone https://github.com/chio-nzgft/busybox-mysql.git
-cd busybox-mysql
+git clone https://github.com/echochio-tw/mysql-busybox-docker.git
+cd busybox-mysql-docker
 docker build -t mysql-busybox .
 ```
 
